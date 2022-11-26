@@ -1,7 +1,7 @@
 # Sedikit tentang saya
-Halo semuanya! Perkenalkan nama saya Muhammad Achyadi Rahmat. Sering juga dikenal dengan panggilan Ahya.
+Halo semuanya! Perkenalkan nama saya Muhammad Achyadi Rahmat.
 Sekarang (2022) saya sedang menempuh pendidikan D3 Teknik Informatika di Politeknik Negeri Banjarmasin.
-Saya memiliki ketertarikan di bidang Web Development khususnya untuk bagian Backend Developer. 
+Saya memiliki ketertarikan di bidang Web Development khususnya untuk bagian Backend Developer menggunakan bahasa pemrograman PHP.
 
 # Sedikit kemampuan saya
 1. HTML
