@@ -10,7 +10,7 @@ Saya memiliki ketertarikan di bidang Web Development khususnya untuk bagian Back
 4. Mysql
 5. PHP Native
 
-# Resolusi untuk enam bulan(27/November/2022 - 27/Mei/2023)
+# Resolusi untuk enam bulan (27/November/2022 - 27/Mei/2023)
 1. Paham mengenai PHP OOP
 2. Paham mengenai PHP MVC
 3. Paham mengenai PHP PDO
